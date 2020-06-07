@@ -8,6 +8,6 @@ class AppTest {
 
     @org.junit.jupiter.api.Test
     void getGreeting() {
-        System.out.println("====>test");
+        System.out.println("====>test !!!");
     }
 }
